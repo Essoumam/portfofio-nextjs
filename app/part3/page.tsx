@@ -9,7 +9,7 @@ export default function About_me(){
 
             <div className="pt-10 pb-7 flex gap-10 md:gap-10 lg:gap-15 justify-center items-center flex-wrap">
                <div>
-                <Image src="/image/profil2.JPG" width={320} height={300} alt="Photo de profil de l'auteur" className="rounded-md shadow-2xl"/>
+                <Image src="/image/profil2.jpg" width={320} height={300} alt="Photo de profil de l'auteur" className="rounded-md shadow-2xl"/>
                </div>
                <div className="flex-wrap text-justify md:text-xl">
                 <p className="md:leading-8 lg:leading-10">
