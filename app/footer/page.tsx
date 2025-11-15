@@ -5,7 +5,7 @@ import { faWhatsapp } from "@fortawesome/free-brands-svg-icons";
 import Link from "next/link";
 
 
-export function Footer(){
+export default function Footer(){
     return(
         <main className="bg-base-200 ft">
 
